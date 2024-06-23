@@ -1,9 +1,9 @@
-# BotanicalLens
+# Botanical Lens
 
 ## Plant Recognition Web Application
 
 ### Project Overview
-BotanicalLens is a progressive web application designed to help users record and identify plants. Users can add new plant sightings, view plants added by themselves or other users, and comment on sightings. The application leverages Node.js, Express, MongoDB, and integrates with the DBPedia knowledge graph for plant identification.
+Botanical Lens is a progressive web application designed to help users record and identify plants. Users can add new plant sightings, view plants added by themselves or other users, and comment on sightings. The application leverages Node.js, Express, MongoDB, and integrates with the DBPedia knowledge graph for plant identification.
 
 ### Features
 - **View Plants**: Sorted by date/time seen and identification status. Optionally sort by distance.
@@ -26,7 +26,7 @@ View the initial wireframe [here](https://drive.google.com/file/d/1eJ5XjPKoRD7nf
 #### Steps to Run the Application
 1. Clone the repository:
    ```sh
-   git clone https://github.com/atharva2109/TeamMsc12.git
+   https://github.com/Vivek-Tate/BotanicalLens.git
    cd TeamMsc12
    ```
 
